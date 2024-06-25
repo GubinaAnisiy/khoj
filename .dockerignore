@@ -1,0 +1,10 @@
+.git/
+.pytest_cache/
+.vscode/
+.venv/
+docs/
+tests/
+build/
+dist/
+scripts/
+*.egg-info/
